@@ -29,4 +29,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mbganesh&repo=my_shop&theme=light" />
 </a>
 
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://user-images.githubusercontent.com/51211116/152750260-19bbc6ed-191b-4c36-a498-23066ceb9f66.svg" />
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://user-images.githubusercontent.com/51211116/152750260-19bbc6ed-191b-4c36-a498-23066ceb9f67.svg" />
